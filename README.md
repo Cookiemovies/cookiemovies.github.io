@@ -1,9 +1,12 @@
 # This is a list of my GitHub Repositories
+  
+  This is a list of my public and private repositories.
+  All other repositories on Cookiemovies are test examples for Selenium and Appium, these are not described here.
     
 ## NODE-MS: A NODE.JS EXPRESS Server example to implement Microservices / API
   
 This is an example how to implement different Microservices as API in Nodejs  
-
+  
 This API allows to search for Countries, Towns, Weather, and Currency data.  
 Can run locally and is published as API function, and as a container to Azure   
 
@@ -19,10 +22,10 @@ The API uses a SQL Database on https://node-ms.database.windows.net/
 A simple example to retrieve data from openweathermap.org API.
 It uses the functionality HttpTrigger on Azure.  
 An update is published automatically when changing the GitHub repo  
-
+  
 Github sources: https://github.com/Cookiemovies/weather  
 Published as an API function to: https://weather-martin.azurewebsites.net/api/weather on any GitHub change  
-
+  
 ## WORDPRESS: Example how to run Docker containers for a WordPress intance locally
   
 Just use the docker-compose command to run this locally in docker containers.  
@@ -37,7 +40,7 @@ Two containers are spin up: One for the database and the other one for PGADMIN4
 Github sources: https://github.com/Cookiemovies/wordpress  
   
 ## Node-Docker: Template how to dockerize a Node/Express App
-
+  
 This is a template how to dockerize a Node/Express App.  
   
 Github sources: https://github.com/Cookiemovies/Node-Docker  
@@ -47,11 +50,11 @@ Github sources: https://github.com/Cookiemovies/Node-Docker
 Github sources: https://github.com/Cookiemovies/mongodb  
   
 ## MartinTest: .NET EXAMPLE
-
+  
 .NET example for a webapp which retrieves data from a local SQL Database.    
   
 Github sources: https://github.com/Cookiemovies/MartinTest
-
+  
 # Private Repositories
 
 These are my private repositories which creats static websites using MkDocs.   
