@@ -1,3 +1,5 @@
+I use Github to store a part of my static web pages, which are compiled at: [Kochloefl/Work](http://www.kochloefl.de/work) and for experimenting with Node.js/Javascript creating APIs and publishing them locally and to Azure.  
+
 # This is a list of my GitHub Repositories
   
   This is a list of my public and private repositories.
@@ -10,7 +12,7 @@ This is an example how to implement different Microservices as API in Nodejs
 This API allows to search for Countries, Towns, Weather, and Currency data.  
 Can run locally and is published as API function, and as a container to Azure   
 
-Github sources: https://github.com/Cookiemovies/node-ms  
+Github sources: (https://github.com/Cookiemovies/node-ms)  
 Published as a container to: http://node-ms.centralus.azurecontainer.io/  manually
 Published as an APP service to: https://node-ms.azurewebsites.net/  on any GitHub change
 Published as an API function to:  
