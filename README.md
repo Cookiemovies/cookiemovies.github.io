@@ -12,10 +12,9 @@ This is an example how to implement different Microservices as API in Nodejs
 This API allows to search for Countries, Towns, Weather, and Currency data.  
 Can run locally and is published as API function, and as a container to Azure   
 
-Github sources: (https://github.com/Cookiemovies/node-ms)  
-Published as a container to: http://node-ms.centralus.azurecontainer.io/  manually
-Published as an APP service to: https://node-ms.azurewebsites.net/  on any GitHub change
-Published as an API function to:  
+Github sources: [https://github.com/Cookiemovies/node-ms](https://github.com/Cookiemovies/node-ms)  
+Published as a container to: [http://node-ms.centralus.azurecontainer.io/]  manually  
+Published as an APP service to: https://node-ms.azurewebsites.net/  on any GitHub change  
   
 The API uses a SQL Database on https://node-ms.database.windows.net/
   
