@@ -46,6 +46,15 @@ This is a template how to dockerize a Node/Express App.
   
 Github sources: <https://github.com/Cookiemovies/Node-Docker>  
   
+## Nodejs-commandinjection
+  
+This is an example for command and sql injection in a nodejs application.  
+You can execute this app locally as a Node/Express App.
+  
+In order to execute the app successfully, you need to install SQL Server Express locally and import the Northwind database.  
+  
+Github sources: <https://github.com/Cookiemovies/nodejs-commandinjection>    
+  
 ## MongoDB: Example how to dockerize MONGODB + MONGO-EXPRESS
   
 Github sources: <https://github.com/Cookiemovies/mongodb>  
