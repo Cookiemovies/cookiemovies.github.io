@@ -59,6 +59,10 @@ Github sources: <https://github.com/Cookiemovies/nodejs-commandinjection>
   
 Github sources: <https://github.com/Cookiemovies/mongodb>  
   
+## Redis: Example how to run redis in Docker
+  
+Github sources: <https://github.com/Cookiemovies/redis>  
+  
 ## MartinTest: .NET EXAMPLE
   
 .NET example for a webapp which retrieves data from a local SQL Database.    
